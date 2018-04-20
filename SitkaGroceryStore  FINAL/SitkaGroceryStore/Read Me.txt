@@ -1,0 +1,20 @@
+My design intent was to create an online like shopping cart. Users would pick an item and the item would go into the cart. Once the user hit a button, the item price would be totalled. 
+
+When the user hit the pay button, the program would generate a receipt based on selections the users made. For example, users could chose between home delivery and in store pick up and to pay with cash or credit card. The option to pay with cash is not available on delivery.
+
+My primary design concern was creating a shopping cart which would expand or contract when an item was added or removed.
+
+This was accomplished using a FlowLayoutPanel. As items are added to the cart, the cart expands and contracts in response. In other words, if an item mid list is removed, the other items adjust  removing any gap.
+
+When user selects the Home Delivery radio button, deliveryFRM is instantiated to allow users to input delivery information. When user clicks OK, receiptFRM is instantiated containing users data.
+
+When user selects the Credit / Debit card radio button, paymentFRM is instantiated. User can input credit card information here. Users information is returned to a Message Box.
+
+It was my intent to then create a receipt which would combine data from these two form to produce a final receipt when the user selects "click to pay" on Form1. But, this proved just beyond the scope of my abiilty. I was not able to accomplish this without seeking outside assistance. I searched on line and was unable to find assistance. 
+
+The other issue which proved outside the scope of my ability was to sum each of the insantiated food objects and pass that to Form1. Had the users selections been placed on a single form, I would have created a decimal variable and += on the ItemSubTotal method I created when the user clicked the add to cart button.
+
+I enjoyed this challenge. I will keep working to figure out the two issues I was unable to accomplish. 
+
+Thank you for the opportunity.
+

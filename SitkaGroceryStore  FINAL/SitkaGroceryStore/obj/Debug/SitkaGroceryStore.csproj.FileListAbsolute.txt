@@ -1,0 +1,107 @@
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe.config
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Form1.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.masterFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Properties.Resources.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe.config
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Form1.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.breakfastFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.masterFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Properties.Resources.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.lunchFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dinnerFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dessertFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.drinksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe.config
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Form1.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.breakfastFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.lunchFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dinnerFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dessertFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.drinksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.masterFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Properties.Resources.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.snacksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.receiptFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.creditIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 3\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.deliveryIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.receiptFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.creditIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.deliveryIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Form1.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.breakfastFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.lunchFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dinnerFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dessertFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.drinksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.snacksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.masterFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Properties.Resources.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe.config
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 4\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe.config
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.creditIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.deliveryIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Form1.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.breakfastFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.lunchFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dinnerFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dessertFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.drinksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.receiptFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.snacksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.masterFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Properties.Resources.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 6\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe.config
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\bin\Debug\SitkaGroceryStore.pdb
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.creditIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.deliveryIntakeFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Form1.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.breakfastFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.lunchFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dinnerFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.dessertFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.drinksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.receiptFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.snacksFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.masterFRM.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.Properties.Resources.resources
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.exe
+C:\Users\Steven\Desktop\Sitka\SitkaGroceryStore  BACKUP - 7\SitkaGroceryStore\obj\Debug\SitkaGroceryStore.pdb
